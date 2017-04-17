@@ -24,16 +24,16 @@ Libraries
 -----------
 Compilation
 -----------
-* 1) First build the project like usual in your IDE
-* 2) Now, go to the main project folder and find the jarsplice program
-* 3) Run this using the command "java -jar "jarsplice-0.40"
-* 4) Click on "Add Jars" on the side and again at the bottom.
-* 5) Navigate to the output folder from the IDE's build and add the main jar file for the program, and also all of the contents of the "lib" folder.
-* 6) Click on "Add Natives" on the side and again at the bottom.
-* 7) Navigate to "Externals/lwjgl 2.9.3/natives/linux" and add all six of the files
-* 8) Now click on "Main Class" and enter "view/Game" in the field
-* 9) Finally click "Create Fat Jar" and place the file wherever.
-* 10) Run the output jar as normal.
+* First build the project like usual in your IDE
+* Now, go to the main project folder and find the jarsplice program
+* Run this using the command "java -jar "jarsplice-0.40"
+* Click on "Add Jars" on the side and again at the bottom.
+* Navigate to the output folder from the IDE's build and add the main jar file for the program, and also all of the contents of the "lib" folder.
+* Click on "Add Natives" on the side and again at the bottom.
+* Navigate to "Externals/lwjgl 2.9.3/natives/linux" and add all six of the files
+* Now click on "Main Class" and enter "view/Game" in the field
+* Finally click "Create Fat Jar" and place the file wherever.
+* Run the output jar as normal.
 
 -------
 Running
